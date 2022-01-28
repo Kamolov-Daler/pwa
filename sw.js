@@ -2,7 +2,7 @@ const staticCacheName = 's-app-v3';
 const dynamicCacheName = 'd-app-v3';
 
 const assetUrls = [
-    'index.html',
+    'https://pwa-pratice.netlify.app',
     '/js/app.js',
     '/css/style.css',
     '/icons/logo-16x16.png'
